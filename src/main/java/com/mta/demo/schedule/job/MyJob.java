@@ -34,6 +34,9 @@ public class MyJob {
         }
     }
 
+
+
+    //update
 //    @Scheduled(cron = "*/3 * * * * *")
 //    public void scheduleTaskUsingCronExpression() throws InterruptedException {
 //        System.out.println("Task3 - " + new Date());
