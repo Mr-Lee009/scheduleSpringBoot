@@ -6,5 +6,11 @@ public class HomeController {
         System.out.println("hai quay xe!");
         System.out.println("hai quay xe lan 3!");
         System.out.println("hai quay xe lan 4!");
+
+        //haha
+        synchronized (
+
+        )
+        //haha2
     }
 }
